@@ -1,0 +1,2 @@
+- Hi, I’m @ezcodeslide
+- I’m interested in bug bounties.
